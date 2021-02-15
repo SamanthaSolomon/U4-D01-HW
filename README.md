@@ -5,10 +5,9 @@
 -  [Ruby](js-vs-ruby.md)
 - When completed submit your link via the HW Submission Form pinned to the classroom channel.
 
-### 2. Read/Watch/Do the Following - EST TIME: 40min
+### 2. Read/Watch/Do the Following -  EST TIME:
 
-### 3. Algo Practice - EST TIME: 1hr
-
+### 3. Algo Practice - EST TIME:
 
 ### 4.  Interview Practice - EST TIME: 20min
 - Add and answer the following question: 
